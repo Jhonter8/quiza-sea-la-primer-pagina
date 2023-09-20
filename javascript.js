@@ -4,8 +4,8 @@ let saludar = alert(`hola ${nombre} un gusto soy jhonter y esto es un nuevo comm
 
 let contraseña = prompt("contraseña?")
 
-if(contraseña == 1234) {
+if(contraseña === 1234) {
     alert(`Bienvenido ${nombre}`)
 } else {
      alert("contraseña incorrecta.")
-}
+} 
