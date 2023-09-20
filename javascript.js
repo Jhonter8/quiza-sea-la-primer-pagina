@@ -1,6 +1,6 @@
 let nombre = prompt("hola, tu nombre?");
 
-let saludar = alert(`hola ${nombre} un gusto soy jhonter y esto es un saludo humano`);
+let saludar = alert(`hola ${nombre} un gusto soy jhonter y esto es un saludo humano v2`);
 
 let contraseña = prompt("contraseña?")
 
