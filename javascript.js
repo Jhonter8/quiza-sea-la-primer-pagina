@@ -10,3 +10,11 @@ if(contraseña === 1234) {
      alert("contraseña incorrecta.")
      alert("bueno... No importa, no hay practicamente nada")
 } 
+
+const saludosBtn = ()=>{
+    alert("HOLA :D")
+}
+
+const noSaludosBtn = ()=>{
+    alert("A mi no, al de arriba!")
+}
