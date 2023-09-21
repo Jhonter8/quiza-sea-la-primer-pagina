@@ -8,4 +8,5 @@ if(contraseña === 1234) {
     alert(`Bienvenido ${nombre}`)
 } else {
      alert("contraseña incorrecta.")
+     alert("bueno... No importa, no hay practicamente nada")
 } 
