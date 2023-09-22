@@ -1,6 +1,4 @@
-# quiza sea la primer pagina
-## Esta página tiene:
+<h1>Primer página en GitHub</h1>
+<h2>Esta página contiene:</h2>
 
->HTML
->CSS
->javascript
+>HTML CSS y javascript
